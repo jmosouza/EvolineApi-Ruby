@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'evoline'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = '2016-09-29'
   s.summary     = "Evoline Api"
   s.description = "A gem to communicate with Evoline's Api"
