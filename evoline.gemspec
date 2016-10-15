@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'aride.moulin@gmail.com'
   s.files       = ["lib/evoline.rb", "lib/evoline/utils.rb", "lib/evoline/sms.rb", "lib/evoline/api_request.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/evoline'
+    'https://github.com/akz92/EvolineApi-Ruby'
   s.license       = 'MIT'
 end
