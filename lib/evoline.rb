@@ -2,6 +2,7 @@ require 'net/http'
 
 require_relative 'evoline/utils'
 require_relative 'evoline/sms'
+require_relative 'evoline/tts'
 require_relative 'evoline/api_request'
 
 module Evoline
